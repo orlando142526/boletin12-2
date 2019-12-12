@@ -13,7 +13,7 @@ Clase1 obj1 = new Clase1(5, 4);
         System.out.print(obj2.modificar(5) + " ");
         obj2 = obj1;
         System.out.println(obj2.modificar(5) + " ");
-    }//fin main 
+    }
 }
 
 class Clase1 {
